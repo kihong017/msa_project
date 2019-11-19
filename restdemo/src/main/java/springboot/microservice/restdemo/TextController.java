@@ -55,4 +55,13 @@ public class TextController {
 	    return helloWorld;
     }
 	
+	@RequestMapping(value = "test3", method = RequestMethod.GET)
+	public Text test3() {
+		
+		Text helloWorld = new Text();
+		helloWorld.setSeq(0);
+		helloWorld.setText("test3");
+		
+		return helloWorld;
+	}
 }
