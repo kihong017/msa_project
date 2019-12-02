@@ -1,6 +1,6 @@
 # Microservice Architecture Project
 
-Updated on 11/8/2019
+Things to be done
+- Define the REST Methods
 
-Personal Project using Spring Boots, Apache Webserver, and RESTful API.
-Current sources are temporary. Will be replaced soon.
+Write out the plans
